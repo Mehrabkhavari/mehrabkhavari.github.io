@@ -16,13 +16,13 @@ darkmode: false
 
 # Social links
 twitter_username: facespics
-github_username:  sproogen
+github_username:  Mehrabkhavari
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: mehrabkhavari.ir
+linkedin_username: mehrabkhavari
 # xing_username: jekyll
 # pinterest_username: jekyll
 youtube_username: globalmtb
@@ -31,9 +31,9 @@ youtube_username: globalmtb
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
