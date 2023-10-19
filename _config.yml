@@ -83,18 +83,13 @@ content:
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+          
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-          •	Second Place in Global Robocop Competition – Rescue league, Nagoya, Japan. 		<mark> July 27, 2017</mark> <br/>
           •	Participation in the FIRA RoboWorld Competition – Innovation and Business 
             league, Wolfenbüttel, Germany. 							<mark>	July 21, 2023 </mark> <br/>
+          •	Second Place in Global Robocop Competition – Rescue league, Nagoya, Japan. 		<mark> July 27, 2017</mark> <br/>
           •	Third Place in the Iran Open Robocop Competition as a Coach, Tehran, Iran.	<mark> April 27, 2023 </mark> <br/>
           •	Second Place in the Iran Open Robocop Competition, Tehran, Iran.				<mark>April 5, 2017</mark> <br/>
 
