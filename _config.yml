@@ -113,7 +113,46 @@ content:
           <b> • Class Projects </b> <br/>
           <small>&nbsp; &nbsp; &nbsp; Completed various class projects, including Smart Lights, Audio Amplifier, and voltage Multiplier.</small> <br/>
 
-
+          
+  - title: Academic Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Super awesome project
+        link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title: 
+            
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+          <b> •	Reverse Engineering Projects for Medical Equipment </b> <br/> 
+          <small> &nbsp; &nbsp; &nbsp;	Disassembled circuit elements.</small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; 	Created circuit schematics based on the board. </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; 	Designed, manufactured and assembled PCB. </small> <br/>
+          <b> •	Building a 3D Printer </b> <br/>
+          <small>&nbsp; &nbsp; &nbsp; 	Researched and listed required components. </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; 	Customized certain components for performance enhancements.  </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; 	Assembled the device following instructions. </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; 	Conducted Initial setup and calibration.  </small> <br/>
+          <b> •	Apartment Warehouses Wiring Project </b> <br/>
+          <small>&nbsp; &nbsp; &nbsp; 		Created wiring diagrams. </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; 		Performed intubation and wiring.  </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; 		Installed necessary equipment.  </small> <br/>
+          <b> •	Full Color Infinity Mirror </b> <br/>
+          <small>&nbsp; &nbsp; &nbsp; 	Selected appropriate lamps and glass materials. </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; 	Researched and improved mirror reflection and transparency.  </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; 	Iteratively upgraded the product's electronics and mirrors.  </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; 	Produced and marketed the final product.   </small> <br/>
+          <b> •	Smart Home project </b> <br/>
+          <small>&nbsp; &nbsp; &nbsp; 	Implemented smart controls for curtains, lights, and air conditioner. </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; 	Designed and constructed a central hub.  </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; 	Wrote codes. </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; 	Design and Build Electric Boards.   </small> <br/>
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
