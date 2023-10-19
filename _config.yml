@@ -224,8 +224,36 @@ content:
           <small>&nbsp; &nbsp; &nbsp; &nbsp; 	C++ </small> <br/>
           <small>&nbsp; &nbsp; &nbsp; &nbsp; 	Assembly </small> <br/>
           <small>&nbsp; &nbsp; &nbsp; &nbsp; 	Arduino </small> <br/>
-          
-
+          <b><i> &nbsp; &nbsp;	Software: </i></b> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 	Proteus circuit simulator </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 		Keil uVision </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 		Code blocks </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 		Code vision </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 		Anaconda </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 		Arduino IDLE </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 	  Microsoft Office </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 		Camtasia </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 		Trello </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 	  Jira</small> <br/>
+          <b><i> &nbsp; &nbsp;	Hardware: </i></b> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 		  Types of Arduino Boards </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 			Types of ESP Boards </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 			Blue pill </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 			Mini pc, Nano pc </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 			Ramps – RepRap </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 		  Step Motors </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 	  	Types of ARM microcontrollers </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 			Types of AVR microcontrollers </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 			Servo motors </small> <br/>
+           <b><i> &nbsp; &nbsp;	OS: </i></b> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 		  Windows </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 			Ubuntu </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 			macOS </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 			ROS </small> <br/>
+          <b> •	Language Skills: </b> <br/> 
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 		  English (soon) </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 			French (Beginner) </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 			Persian (Native( </small> <br/>
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
