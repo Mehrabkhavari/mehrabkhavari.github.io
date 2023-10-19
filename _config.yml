@@ -114,7 +114,7 @@ content:
           <small>&nbsp; &nbsp; &nbsp; Completed various class projects, including Smart Lights, Audio Amplifier, and voltage Multiplier.</small> <br/>
 
           
-  - title: Academic Projects # Title for the section
+  - title: Other Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -162,21 +162,46 @@ content:
         # link_text: boringcompany.com
         
         description: | # this will include new lines to allow paragraphs
-          •	Participation in the FIRA RoboWorld Competition – Innovation and Business 
-            league, Wolfenbüttel, Germany. 							<mark>	July 21, 2023 </mark> <br/>
-          •	Second Place in Global Robocop Competition – Rescue league, Nagoya, Japan. 		<mark> July 27, 2017</mark> <br/>
-          •	Third Place in the Iran Open Robocop Competition as a Coach, Tehran, Iran.	<mark> April 27, 2023 </mark> <br/>
-          •	Second Place in the Iran Open Robocop Competition, Tehran, Iran.				<mark>April 5, 2017</mark> <br/>      
+          •	Miniature Talk Competition at Children’s Hospital, Tehran, Iran. 		<mark>	September 9, 2023 </mark> <br/>
+          •	Certification in proficiency in Surgery Room Medical Equipment Maintenance and Troubleshooting.	 		<mark> August 13, 2022</mark> <br/>
+          •	Certification in proficiency in Electronic in Medical Engineering.		<mark> August 20, 2022 </mark> <br/>
+          •	Attended the ROS and Python Workshop.				<mark>August 20, 2022</mark> <br/>      
       - layout: left
-        title: Academic Experience
+        title: Engineering Experience
         # link_text: boringcompany.com
         
         description: | # this will include new lines to allow paragraphs
-          •	Participation in the FIRA RoboWorld Competition – Innovation and Business 
-            league, Wolfenbüttel, Germany. 							<mark>	July 21, 2023 </mark> <br/>
-          •	Second Place in Global Robocop Competition – Rescue league, Nagoya, Japan. 		<mark> July 27, 2017</mark> <br/>
-          •	Third Place in the Iran Open Robocop Competition as a Coach, Tehran, Iran.	<mark> April 27, 2023 </mark> <br/>
-          •	Second Place in the Iran Open Robocop Competition, Tehran, Iran.				<mark>April 5, 2017</mark> <br/>    
+          •	Certification in proficiency in Embedded C Programming.		<mark>	June 2, 2023 </mark> <br/>
+          •	Certification in proficiency in Embedded ARM Programming.			 		<mark> June 2, 2023</mark> <br/>
+          •	Certification in expertise in Altium Designer. 		<mark> May 7, 2020 </mark> <br/>
+          •	Certification in expertise in Single Phase and Three Phase Electricity.				<mark>November 14, 2019</mark> <br/>    
+          •	Technical skills in Installation of CCTV Cameras.				<mark>July 24, 2017</mark> <br/>    
+          •	Technical skills in Installation and Service of Traction Elevators.				<mark>June 15, 2017</mark> <br/>    
+      - layout: left
+        title: Teaching Experience
+        # link_text: boringcompany.com
+        
+        description: | # this will include new lines to allow paragraphs
+          •	Taught Robotics at Saratech Primary school.			<mark>	2022 - 2023 </mark> <br/>
+          •	Taught Robotic and Arduino Programing at Salam High School.			 		<mark> 2022 - 2023 </mark> <br/>
+      
+  - title: Publication # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout:
+        title: 
+        link: 
+        # link_text: Project Website
+        additional_links:
+          - title: 
+            
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+        
 
   - title: A Little More About Me
     layout: text
