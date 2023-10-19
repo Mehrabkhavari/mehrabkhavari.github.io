@@ -59,13 +59,12 @@ content:
       - layout: left
         title: B.Sc.  Biomedical Engineering, Bio Electric
         caption: September 2019 - Present
-        sub_title: 
-        quote: >
-          Overall GPA: 16/20 (80%)
-          Major GPA: 16.37/20 (81.8%)
+        sub_title:
+
         description: | # this will include new lines to allow paragraphs
-          Islamic Azad University, Central Tehran Branch, Tehran, Iran  <br /> 
+          <b>Islamic Azad University, Central Tehran Branch, Tehran, Iran </b> <br /> 
           Note: Azad University is the second best university in Iran based on U.S.news <br/> <br/>
+          <i>Overall GPA: 16/20 (80%) <br/> Major GPA: 16.37/20 (81.8%)</i>
           
 
   - title: RESEARCH INTREST # Title for the section
@@ -165,7 +164,7 @@ content:
           •	Miniature Talk Competition at Children’s Hospital, Tehran, Iran. 		<mark>	September 9, 2023 </mark> <br/>
           •	Certification in proficiency in Surgery Room Medical Equipment Maintenance and Troubleshooting.	 		<mark> August 13, 2022</mark> <br/>
           •	Certification in proficiency in Electronic in Medical Engineering.		<mark> August 20, 2022 </mark> <br/>
-          •	Attended the ROS and Python Workshop.				<mark>August 20, 2022</mark> <br/>      
+          •	Attended the ROS and Python Workshop.				<mark>September 2022</mark> <br/>      
       - layout: left
         title: Engineering Experience
         # link_text: boringcompany.com
@@ -220,40 +219,40 @@ content:
         description: | # this will include new lines to allow paragraphs
           <b> •	Computer Skills: </b> <br/> 
           <b><i> &nbsp; &nbsp;	Programming Languages: </i></b> <br/>
-          <small>&nbsp; &nbsp; &nbsp; &nbsp; 	C </small> <br/>
-          <small>&nbsp; &nbsp; &nbsp; &nbsp; 	C++ </small> <br/>
-          <small>&nbsp; &nbsp; &nbsp; &nbsp; 	Assembly </small> <br/>
-          <small>&nbsp; &nbsp; &nbsp; &nbsp; 	Arduino </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 	  -C </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 	  -C++ </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 	  -Assembly </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 	  -Arduino </small> <br/>
           <b><i> &nbsp; &nbsp;	Software: </i></b> <br/>
-          <small>&nbsp; &nbsp; &nbsp; &nbsp; 	Proteus circuit simulator </small> <br/>
-          <small>&nbsp; &nbsp; &nbsp; &nbsp; 		Keil uVision </small> <br/>
-          <small>&nbsp; &nbsp; &nbsp; &nbsp; 		Code blocks </small> <br/>
-          <small>&nbsp; &nbsp; &nbsp; &nbsp; 		Code vision </small> <br/>
-          <small>&nbsp; &nbsp; &nbsp; &nbsp; 		Anaconda </small> <br/>
-          <small>&nbsp; &nbsp; &nbsp; &nbsp; 		Arduino IDLE </small> <br/>
-          <small>&nbsp; &nbsp; &nbsp; &nbsp; 	  Microsoft Office </small> <br/>
-          <small>&nbsp; &nbsp; &nbsp; &nbsp; 		Camtasia </small> <br/>
-          <small>&nbsp; &nbsp; &nbsp; &nbsp; 		Trello </small> <br/>
-          <small>&nbsp; &nbsp; &nbsp; &nbsp; 	  Jira</small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 	  -Proteus circuit simulator </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 		-Keil uVision </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 		-Code blocks </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 		-Code vision </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 		-Anaconda </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 		-Arduino IDLE </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 	  -Microsoft Office </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 		-Camtasia </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 		-Trello </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 	  -Jira</small> <br/>
           <b><i> &nbsp; &nbsp;	Hardware: </i></b> <br/>
-          <small>&nbsp; &nbsp; &nbsp; &nbsp; 		  Types of Arduino Boards </small> <br/>
-          <small>&nbsp; &nbsp; &nbsp; &nbsp; 			Types of ESP Boards </small> <br/>
-          <small>&nbsp; &nbsp; &nbsp; &nbsp; 			Blue pill </small> <br/>
-          <small>&nbsp; &nbsp; &nbsp; &nbsp; 			Mini pc, Nano pc </small> <br/>
-          <small>&nbsp; &nbsp; &nbsp; &nbsp; 			Ramps – RepRap </small> <br/>
-          <small>&nbsp; &nbsp; &nbsp; &nbsp; 		  Step Motors </small> <br/>
-          <small>&nbsp; &nbsp; &nbsp; &nbsp; 	  	Types of ARM microcontrollers </small> <br/>
-          <small>&nbsp; &nbsp; &nbsp; &nbsp; 			Types of AVR microcontrollers </small> <br/>
-          <small>&nbsp; &nbsp; &nbsp; &nbsp; 			Servo motors </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 		  -Types of Arduino Boards </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 			-Types of ESP Boards </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 			-Blue pill </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 			-Mini pc, Nano pc </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 			-Ramps – RepRap </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 		  -Step Motors </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 	  	-Types of ARM microcontrollers </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 			-Types of AVR microcontrollers </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 			-Servo motors </small> <br/>
            <b><i> &nbsp; &nbsp;	OS: </i></b> <br/>
-          <small>&nbsp; &nbsp; &nbsp; &nbsp; 		  Windows </small> <br/>
-          <small>&nbsp; &nbsp; &nbsp; &nbsp; 			Ubuntu </small> <br/>
-          <small>&nbsp; &nbsp; &nbsp; &nbsp; 			macOS </small> <br/>
-          <small>&nbsp; &nbsp; &nbsp; &nbsp; 			ROS </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 		  -Windows </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 			-Ubuntu </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 			-macOS </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 			-ROS </small> <br/>
           <b> •	Language Skills: </b> <br/> 
-          <small>&nbsp; &nbsp; &nbsp; &nbsp; 		  English (soon) </small> <br/>
-          <small>&nbsp; &nbsp; &nbsp; &nbsp; 			French (Beginner) </small> <br/>
-          <small>&nbsp; &nbsp; &nbsp; &nbsp; 			Persian (Native( </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 		  -English (soon) </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 			-French (Beginner) </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 			-Persian (Native( </small> <br/>
 
   - title: VOLUNTEER EXPERIENCE # Title for the section
     layout: list # Type of content section (list/text)
