@@ -72,8 +72,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Robotic, Electronics, Hardware Developing, Reverse Engineering, Embedded units programming.   
-
+        title: 
+        description: | # this will include new lines to allow paragraphs
+          Robotic, Electronics, Hardware Developing, Reverse Engineering, Embedded units programming.   
         
   - title: Awards AND Honors # Title for the section
     layout: list # Type of content section (list/text)
