@@ -70,7 +70,7 @@ content:
   - title: Research Intrest # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: center
+      - layout: top-middle
         title: Robotic, Electronics, Hardware Developing, Reverse Engineering, Embedded units programming.   
         
           
