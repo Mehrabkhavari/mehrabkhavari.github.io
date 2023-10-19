@@ -107,12 +107,12 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-          •	Logic Circuit Simulator (Voluntary university project)
-          	Designed Schematic of Electrical circuit.
-          	Designed, manufactured, and assembled PCB.
-          	Utilized a 3D printer to create the housing 
-          • Class Projects
-          	Completed various class projects, including Smart Lights, Audio Amplifier, and voltage Multiplier.
+          <b> •	Logic Circuit Simulator (Voluntary university project) </b> <br/> 
+          <small>Designed Schematic of Electrical circuit.</small> <br/>
+          <small>Designed, manufactured, and assembled PCB.</small> <br/>
+          <small>Utilized a 3D printer to create the housing </small> <br/>
+          <b> • Class Projects </b> <br/>
+          <small>Completed various class projects, including Smart Lights, Audio Amplifier, and voltage Multiplier.</small> <br/>
 
 
   - title: Experience # Title for the section
