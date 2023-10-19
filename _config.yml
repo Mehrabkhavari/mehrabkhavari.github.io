@@ -61,12 +61,12 @@ content:
         caption: September 2019 - Present
         sub_title: 
         quote: >
-          Islamic Azad University, Central Tehran Branch, Tehran, Iran  <br /> 
-          Note: Azad University is the second best university in Iran based on U.S.news 
-        description: | # this will include new lines to allow paragraphs
           Overall GPA: 16/20 (80%)
           Major GPA: 16.37/20 (81.8%)
-
+        description: | # this will include new lines to allow paragraphs
+          Islamic Azad University, Central Tehran Branch, Tehran, Iran  <br /> 
+          Note: Azad University is the second best university in Iran based on U.S.news <br/> <br/>
+          
 
   - title: Research Intrest # Title for the section
     layout: list # Type of content section (list/text)
@@ -75,6 +75,28 @@ content:
         title: Robotic, Electronics, Hardware Developing, Reverse Engineering, Embedded units programming.   
 
         
+  - title: Awards AND Honors # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Super awesome project
+        link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          •	Second Place in Global Robocop Competition – Rescue league, Nagoya, Japan. 		<mark> July 27, 2017</mark> <br/>
+         •	Participation in the FIRA RoboWorld Competition – Innovation and Business 
+         league, Wolfenbüttel, Germany. 							<mark>	July 21, 2023 </mark> <br/>
+         •	Third Place in the Iran Open Robocop Competition as a Coach, Tehran, Iran.	<mark> April 27, 2023 </mark> <br/>
+         •	Second Place in the Iran Open Robocop Competition, Tehran, Iran.				<mark>April 5, 2017</mark> <br/>
 
           
   - title: Projects # Title for the section
