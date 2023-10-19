@@ -98,9 +98,8 @@ content:
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+          - title: 
+            
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -110,9 +109,9 @@ content:
           <b> •	Logic Circuit Simulator (Voluntary university project) </b> <br/> 
           <small> &nbsp; &nbsp; &nbsp; Designed Schematic of Electrical circuit.</small> <br/>
           <small>&nbsp; &nbsp; &nbsp; Designed, manufactured, and assembled PCB.</small> <br/>
-          <small>Utilized a 3D printer to create the housing </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; Utilized a 3D printer to create the housing </small> <br/>
           <b> • Class Projects </b> <br/>
-          <small>Completed various class projects, including Smart Lights, Audio Amplifier, and voltage Multiplier.</small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; Completed various class projects, including Smart Lights, Audio Amplifier, and voltage Multiplier.</small> <br/>
 
 
   - title: Experience # Title for the section
