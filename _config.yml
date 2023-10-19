@@ -158,7 +158,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Academic Experience:
+        title: Academic Experience
         # link_text: boringcompany.com
         
         caption: <small>&nbsp; &nbsp; &nbsp; 	Design and Build Electric Boards.   </small> <br/>
