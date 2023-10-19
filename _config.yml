@@ -94,8 +94,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: 
+        link: 
         # link_text: Project Website
         additional_links:
           - title: 
@@ -118,8 +118,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: 
+        link: 
         # link_text: Project Website
         additional_links:
           - title: 
@@ -202,6 +202,29 @@ content:
           
         description: | # this will include new lines to allow paragraphs
         
+  - title: Skills # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: 
+        link: 
+        # link_text: Project Website
+        additional_links:
+          - title: 
+            
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+          <b> •	Computer Skills: </b> <br/> 
+          <b><i> &nbsp; &nbsp;	Programming Languages: </i></b> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 	C </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 	C++ </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 	Assembly </small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; &nbsp; 	Arduino </small> <br/>
+          
 
   - title: A Little More About Me
     layout: text
