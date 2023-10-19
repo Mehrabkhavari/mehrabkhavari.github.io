@@ -108,8 +108,8 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           <b> •	Logic Circuit Simulator (Voluntary university project) </b> <br/> 
-          <small>Designed Schematic of Electrical circuit.</small> <br/>
-          <small>Designed, manufactured, and assembled PCB.</small> <br/>
+          <small> &nbsp; &nbsp; &nbsp; Designed Schematic of Electrical circuit.</small> <br/>
+          <small>&nbsp; &nbsp; &nbsp; Designed, manufactured, and assembled PCB.</small> <br/>
           <small>Utilized a 3D printer to create the housing </small> <br/>
           <b> • Class Projects </b> <br/>
           <small>Completed various class projects, including Smart Lights, Audio Amplifier, and voltage Multiplier.</small> <br/>
