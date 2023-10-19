@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
-  - title: Education # Title for the section
+  - title: EDUCATION # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -68,7 +68,7 @@ content:
           Note: Azad University is the second best university in Iran based on U.S.news <br/> <br/>
           
 
-  - title: Research Intrest # Title for the section
+  - title: RESEARCH INTREST # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -76,7 +76,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Robotic, Electronics, Hardware Developing, Reverse Engineering, Embedded units programming. <br/> <br/>    
         
-  - title: Awards AND Honors # Title for the section
+  - title: AWARDS AND HONORS # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -90,7 +90,7 @@ content:
           •	Second Place in the Iran Open Robocop Competition, Tehran, Iran.				<mark>April 5, 2017</mark> <br/>
 
           
-  - title: Academic Projects # Title for the section
+  - title: ACADEMIC PROJECTS # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -114,7 +114,7 @@ content:
           <small>&nbsp; &nbsp; &nbsp; Completed various class projects, including Smart Lights, Audio Amplifier, and voltage Multiplier.</small> <br/>
 
           
-  - title: Other Projects # Title for the section
+  - title: OTHER PROJECTS # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -154,7 +154,7 @@ content:
           <small>&nbsp; &nbsp; &nbsp; 	Wrote codes. </small> <br/>
           <small>&nbsp; &nbsp; &nbsp; 	Design and Build Electric Boards.   </small> <br/>
           
-  - title: Experience # Title for the section
+  - title: EXPERIENCE # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -185,7 +185,7 @@ content:
           •	Taught Robotics at Saratech Primary school.			<mark>	2022 - 2023 </mark> <br/>
           •	Taught Robotic and Arduino Programing at Salam High School.			 		<mark> 2022 - 2023 </mark> <br/>
       
-  - title: Publication # Title for the section
+  - title: PUBLICATIONS # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout:
@@ -202,7 +202,7 @@ content:
           
         description: | # this will include new lines to allow paragraphs
         
-  - title: Skills # Title for the section
+  - title: SKILLS # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -254,6 +254,32 @@ content:
           <small>&nbsp; &nbsp; &nbsp; &nbsp; 		  English (soon) </small> <br/>
           <small>&nbsp; &nbsp; &nbsp; &nbsp; 			French (Beginner) </small> <br/>
           <small>&nbsp; &nbsp; &nbsp; &nbsp; 			Persian (Native( </small> <br/>
+
+  - title: VOLUNTEER EXPERIENCE # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+          •	Certificated in First aid by Red Crescent.  							<mark>	August 2022 </mark> <br/>
+          •	Achieved The Highest Rank of Cultural Activity in high school. 		 <br/>
+          •	Participated in the Rebuilding efforts in Earthquake-Affected areas in the south of the country, serving as an Electrical Technician. <br/>
+          •	Work as an IT Technician at the Central (Covid-19) Vaccination Center, Tehran, Iran.	<mark>June 2021 – September 2021 </mark> <br/>
+
+  - title: HOBIES AND INTERST # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+          •	Mountain climbing <br/>
+          •	Riding bike		 <br/>
+          •	Body building <br/>
+          •	Photography <br/>
+          •	Carpentry <br/>
+                    
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
