@@ -57,20 +57,20 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: •	B.Sc.  Biomedical Engineering, Bio Electric
+        title: B.Sc.  Biomedical Engineering, Bio Electric
         caption: September 2019 - Present
-        sub_title: Islamic Azad University, Central Tehran Branch, Tehran, Iran
+        sub_title: Note: Azad University is the second best university in Iran based on U.S.news 
         quote: >
-          Note: Azad University is the second best university in Iran based on U.S.news
+          Islamic Azad University, Central Tehran Branch, Tehran, Iran
         description: | # this will include new lines to allow paragraphs
           Overall GPA: 16/20 (80%)
           Major GPA: 16.37/20 (81.8%)
 
-    - title: Research Intrest # Title for the section
+  - title: Research Intrest # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: center
-        title: Robotic, Electronics, Hardware Developing, Reverse Engineering, Embedded units programming. 
+        title: Robotic, Electronics, Hardware Developing, Reverse Engineering, Embedded units programming.   
         
           
   - title: Projects # Title for the section
