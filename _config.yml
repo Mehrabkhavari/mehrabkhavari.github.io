@@ -49,7 +49,7 @@ about_title: ABOUT ME
 about_profile_image: images/mehrabkhavari2.jpg
 about_content: | # this will include new lines to allow paragraphs
  Hi, my name's Mehrab and I'm a junior Medical Equipment Engineer. 
- As well as Medical Equipment Engineer I also have experience in Hardwar Developing and Electronic projects. I have worked at a number of companies gaining teamwork and leadership skills.
+ As well as Medical Equipment Engineer I also have experience in Hardware Developing and Electronic projects. I have worked at a number of companies gaining teamwork and leadership skills.
 
 content:
   - title: EDUCATION # Title for the section
@@ -183,22 +183,22 @@ content:
           •	Taught Robotics at Saratech Primary school.			<mark>	2022 - 2023 </mark> <br/>
           •	Taught Robotic and Arduino Programing at Salam High School.			 		<mark> 2022 - 2023 </mark> <br/>
       
-  - title: PUBLICATIONS # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout:
-        title: 
-        link: 
-        # link_text: Project Website
-        additional_links:
-          - title: 
+  # - title: PUBLICATIONS # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout:
+  #       title: 
+  #       link: 
+  #       # link_text: Project Website
+  #       additional_links:
+  #         - title: 
             
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
+  #         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #         #   icon: fab fa-github
+  #         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+  #       quote: >
           
-        description: | # this will include new lines to allow paragraphs
+  #       description: | # this will include new lines to allow paragraphs
         
   - title: SKILLS # Title for the section
     layout: list # Type of content section (list/text)
@@ -278,9 +278,9 @@ content:
           •	Photography <br/>
           •	Carpentry <br/>
                     
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
+#  - title: A Little More About Me
+#    layout: text
+#    content: | # this will include new lines to allow paragraphs
 #      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
 #      - Rock climbing
 #      - Gaming
